@@ -1,4 +1,4 @@
-🧠 AI Combat Simulation – Unreal Engine 5
+<h3>🧠 AI Combat Simulation – Unreal Engine 5</h3>
 
 An experimental third-person action game built in Unreal Engine 5, focused on implementing adaptive AI agents that use perception-based decision-making, navigation meshes, and dynamic combat interactions.
 This project demonstrates both gameplay design and research potential in autonomous game AI, combining technical AI systems with smooth player interaction and feedback.
